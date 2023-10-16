@@ -55,9 +55,6 @@
 <?php require_once  ('conteudo/etapas.php');?>
 
 
-
-
-
 <?php require_once  ('conteudo/servico.php');?>
 </main>
 

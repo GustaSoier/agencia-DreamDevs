@@ -14,7 +14,7 @@
         
         ?>
 
-<ul>
+        <ul>
           <li><a href="index.php" <?php if ($urlBase == 'index.php') echo 'class="ativo"'; ?>>Home </a></li>
           <li><a href="etapas.php" <?php if ($urlBase == 'etapas.php') echo 'class="ativo"'; ?>>etapas</a></li>
           <li><a href="apresentacao.php" <?php if ($urlBase == 'apresentacao.php') echo 'class="ativo"'; ?>>apresentacao</a></li>
@@ -23,21 +23,6 @@
         </ul>
 
     </nav>
-   
-
-
-    <div class="redeSocialTopo">
-        
-        <ul>
-          <li><a href="#">Facebook</a></li>
-          <li><a href="#">Instagram</a></li>
-          <li><a href="#">WhatsApp</a></li>
-        </ul>
-      </div>
-      </nav>
-    </div>
-
-      
-   
+    <button>LOGIN</button>
     </header>
    
